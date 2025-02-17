@@ -1,5 +1,5 @@
-## Schedule Winter 2025
-
+# Schedule Winter 2025
+## Weekdays
 ## Monday
 - 16:00 To 18:00 -- Comp 1236 - Fund. Of Computing Logic
 - 18:00 To 20:00 -- Comp 1234 - Introduction To Web Development
