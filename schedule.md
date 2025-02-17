@@ -5,7 +5,7 @@
 ### Monday
 - 16:00 To 18:00 -- Comp 1236 - Fund. Of Computing Logic
 - 18:00 To 20:00 -- Comp 1234 - Introduction To Web Development
-#3# Tuesday
+### Tuesday
 - 16:00 To 18:00 -- Comp 1238 - Introduction To Data Mgmt.
 - 18:00 To 20:00 -- Comp 1151 - It Essentials
 ### Wednesday
